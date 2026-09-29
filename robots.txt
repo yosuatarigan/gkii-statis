@@ -1,0 +1,18 @@
+User-Agent: *
+Allow: /
+Disallow: /admin
+Disallow: /khotbah?
+Disallow: /en/khotbah?
+
+User-Agent: AhrefsBot
+User-Agent: SemrushBot
+User-Agent: MJ12bot
+User-Agent: DotBot
+User-Agent: PetalBot
+User-Agent: DataForSeoBot
+User-Agent: BLEXBot
+User-Agent: SeekportBot
+User-Agent: serpstatbot
+Disallow: /
+
+Sitemap: https://gkii.org/sitemap.xml
